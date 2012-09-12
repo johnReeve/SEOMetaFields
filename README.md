@@ -11,11 +11,11 @@ while still having some control over the tags at a basic level.  So I wrote a pl
 
 This plugin is simple.  It adds:
 
-*an admin page where you can set site defaults for keyword, title, and description tags
++ an admin page where you can set site defaults for keyword, title, and description tags
 
-*a pane on the "add post" where you can create metadata for all types of content that you might add from the admin (posts, pages, and custom0 -- and it figures out what content types there are and adds it for each one.  And, of course, if this is not set it goes to the defaults set in the admin page.
++ a pane on the "add post" where you can create metadata for all types of content that you might add from the admin (posts, pages, and custom0 -- and it figures out what content types there are and adds it for each one.  And, of course, if this is not set it goes to the defaults set in the admin page.
 
-*a function to insert this into your theme.
++ a function to insert this into your theme.
 
 ##Usage
 
