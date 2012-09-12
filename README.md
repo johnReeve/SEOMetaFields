@@ -1,4 +1,4 @@
-SEOMetaFields
+SEOMetaFields for WordPress
 =============
 
 This is a super simple WordPress plugin that adds some basic meta-tag functionality.
